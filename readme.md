@@ -3,6 +3,9 @@
 - git add
 - git commit 
 - git status
+- git branch <branch-name>
 - git checkout -b <branch-name>
+- git push -u <remote-link> <branch-name>
+- git push
 - git pull
 - git merge
