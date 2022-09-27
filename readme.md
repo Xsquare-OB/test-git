@@ -5,3 +5,4 @@
 - git status
 - git checkout -b <branch-name>
 - git pull
+- git merge
